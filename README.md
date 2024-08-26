@@ -109,8 +109,8 @@ The project successfully integrates ECG monitoring with modern technology to pro
 
 ## Clone Repository
 To clone this repository, use the following command:
-```bash
-git clone https://github.com/your-username/ecg-deployment-smartphone.git
+```bash[
+git clone https://github.com/aditya22101/ECG-Deployment-Using-Smart-Phone.git
 ```
 
 After cloning the repository, follow the setup instructions in the `README.md` files found in the respective directories for hardware and software setup.
