@@ -113,8 +113,3 @@ To clone this repository, use the following command:
 git clone https://github.com/aditya22101/ECG-Deployment-Using-Smart-Phone.git
 ```
 
-After cloning the repository, follow the setup instructions in the `README.md` files found in the respective directories for hardware and software setup.
-
----
-
-Feel free to customize the links and add any additional setup instructions specific to your project.
